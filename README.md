@@ -1,11 +1,11 @@
-## Hi there! My name is Vishnu and I am a Robotics Engineer.
-- I’m a Graduate Student in Robotics at Northeastern University.
-- I’m currently working on multi-UAV swarm systems.
-- I’m looking to collaborate on Robotics, Perception, System Design and Controls based projects
-- I am also looking for full-time opportunities in the industry in the same field.
-- You can contact me via [LinkedIn](www.linkedin.com/in/vishnurohit87) or Email at annadanam.v@northeastern.edu
+## Hi there!👋 My name is Vishnu and I am a Robotics Engineer.
+- 🎓 I’m a Graduate Student in Robotics at Northeastern University.
+- 🤖 I’m currently working on multi-UAV swarm systems.
+- 👥 I’m looking to collaborate on Robotics, Perception, System Design and Controls based projects.
+- 💼 I am also looking for full-time opportunities in the industry in the same field.
+- 📞 You can contact me via [LinkedIn](www.linkedin.com/in/vishnurohit87) or Email at annadanam.v@northeastern.edu
 
-Skills: ROS, Python, C++, Git, Linux
+💡 **Skills**: ROS, Python, C++, MATLAB, Git, Linux, ArduPilot.
 
 <img src="https://drive.google.com/uc?export=view&id=1A9bb0qydePhI1FcB8Z8CW5I3juhY1TU_"  width="100%"/>
 <!---
