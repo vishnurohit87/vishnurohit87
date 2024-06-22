@@ -3,7 +3,7 @@
 - 🤖 I’m currently working on multi-UAV swarm systems.
 - 👥 I’m looking to collaborate on Robotics, Perception, System Design and Controls based projects.
 - 💼 I am also looking for full-time opportunities in the industry in the same field.
-- 📞 You can contact me via [LinkedIn](www.linkedin.com/in/vishnurohit87) or Email at annadanam.v@northeastern.edu
+- 📞 You can contact me via [LinkedIn](https://linkedin.com/in/vishnurohit87) or Email at annadanam.v@northeastern.edu
 
 💡 **Skills**: ROS, Python, C++, MATLAB, Git, Linux, ArduPilot.
 
