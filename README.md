@@ -1,6 +1,5 @@
-## Hi there!👋 My name is Vishnu and I am a Robotics Engineer.
-- 🎓 I’m a Graduate Student in Robotics at Northeastern University.
-- 🤖 I’m currently working on multi-UAV swarm systems.
+## Hi there!👋 My name is Vishnu and I am a Robotics Research Assistant.
+- 🎓 I hold a Master's degree in Robotics from Northeastern University.
 - 👥 I’m looking to collaborate on Robotics, Perception, Deep Learning, System Design and Controls based projects.
 - 💼 I am also looking for full-time opportunities in the industry in the same field.
 - 📞 You can contact me via [LinkedIn](https://linkedin.com/in/vishnurohit87) or Email at annadanam.v@northeastern.edu
